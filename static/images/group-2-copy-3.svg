@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="232" viewBox="0 0 151 232">
+    <defs>
+        <linearGradient id="a" x1="89.03%" x2="8.321%" y1="2.894%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#A1D9FF"/>
+        </linearGradient>
+        <linearGradient id="b" x1="21.366%" x2="77.322%" y1="6.649%" y2="93.14%">
+            <stop offset="0%" stop-color="#FF622E"/>
+            <stop offset="100%" stop-color="#FF822E"/>
+        </linearGradient>
+        <linearGradient id="c" x1="50%" x2="89.03%" y1="70.928%" y2="2.894%">
+            <stop offset="0%" stop-color="#00C6FF"/>
+            <stop offset="100%" stop-color="#007BCE"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" fill-opacity=".8" d="M63.51 132.51a8.501 8.501 0 1 1 0-12.02 8.501 8.501 0 0 1 0 12.02z"
+              transform="rotate(-165 76.17 120.54)"/>
+        <path stroke="url(#a)" stroke-width="3"
+              d="M158.23 197.218c-34.358 34.376-90.102 34.376-124.46 0-34.36-34.356-34.36-90.075 0-124.451 34.358-34.356 90.102-34.356 124.46 0 34.36 34.376 34.36 90.095 0 124.45z"
+              opacity=".521" transform="rotate(-165 76.17 120.54)"/>
+        <path fill="url(#b)" fill-opacity=".8"
+              d="M86.002 203.854a18.13 18.13 0 0 0-12.843 5.304c-7.076 7.082-7.076 18.601 0 25.683 7.086 7.08 18.596 7.08 25.682 0 7.08-7.082 7.08-18.6 0-25.683A18.117 18.117 0 0 0 86 203.854m0 38.146c-5.125 0-10.247-1.947-14.149-5.855-7.803-7.796-7.803-20.491 0-28.29 7.803-7.806 20.496-7.806 28.296 0 7.803 7.799 7.803 20.494 0 28.29-3.899 3.908-9.024 5.855-14.146 5.855"
+              opacity=".436" transform="rotate(-165 76.17 120.54)"/>
+        <path fill="url(#b)"
+              d="M97.5 0c5.8 0 10.5 4.7 10.5 10.5S103.3 21 97.5 21C91.701 21 87 16.3 87 10.5S91.701 0 97.5 0"
+              transform="rotate(-165 76.17 120.54)"/>
+        <path fill="url(#c)" fill-opacity=".8" d="M14 61a7 7 0 1 1-14 0 7 7 0 0 1 14 0" opacity=".418"
+              transform="rotate(-165 76.17 120.54)"/>
+    </g>
+</svg>

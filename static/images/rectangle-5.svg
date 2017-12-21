@@ -1,0 +1,17 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="1440" height="698"
+     viewBox="0 0 1440 698">
+    <defs>
+        <circle id="a" cx="3472.335" cy="3472.335" r="3472.335"/>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#01C8FF"/>
+            <stop offset="100%" stop-color="#0AE2F1"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-3240 -6247)">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#D8D8D8" xlink:href="#a"/>
+        <path fill="url(#b)" d="M3240 6247h1440v702H3240z" mask="url(#c)"/>
+    </g>
+</svg>

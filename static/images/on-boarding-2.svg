@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+    <defs>
+        <linearGradient id="b" x1="0%" y1="0%" y2="70.667%">
+            <stop offset="0%" stop-color="#05D8E3" stop-opacity=".987"/>
+            <stop offset="100%" stop-color="#5BA7F5"/>
+        </linearGradient>
+        <rect id="a" width="190.667" height="110" rx="2.2"/>
+        <linearGradient id="d" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity=".421"/>
+        </linearGradient>
+        <linearGradient id="e" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity=".421"/>
+        </linearGradient>
+        <rect id="g" width="64.167" height="117.5" rx="3.401"/>
+        <filter id="f" width="141.8%" height="122.9%" x="-20.9%" y="-9.7%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius=".425" result="shadowSpreadOuter1"/>
+            <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0699162138 0"/>
+        </filter>
+        <rect id="h" width="15.197" height="5.109" x="24.485" y="107.351" rx="2.554"/>
+        <path id="j" d="M41.351 14.68L29.475.395c-.21-.253-.499-.395-.8-.395H1.115C.5 0 0 .583 0 1.303v59.061c0 .72.5 1.303 1.116 1.303H40.55c.616 0 1.116-.583 1.116-1.304V15.587c0-.339-.114-.665-.316-.907z"/>
+        <filter id="i" width="162.4%" height="142.2%" x="-31.2%" y="-17.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+        </filter>
+        <path id="l" d="M51.276 18.25L36.55.491A1.295 1.295 0 0 0 35.557 0H1.384C.619 0 0 .725 0 1.62v73.427c0 .895.62 1.62 1.384 1.62h48.899c.764 0 1.384-.725 1.384-1.62V19.378c0-.422-.141-.827-.391-1.129z"/>
+        <filter id="k" width="150.3%" height="133.9%" x="-25.2%" y="-14.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+        </filter>
+        <circle id="m" cx="26.515" cy="26.515" r="26.515"/>
+        <filter id="n" width="139.6%" height="139.6%" x="-19.8%" y="-14.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+        </filter>
+        <linearGradient id="p" x1="100%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#F78643"/>
+            <stop offset="100%" stop-color="#EC4E20"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="125" cy="125" r="125" fill="#009EE5" opacity=".04"/>
+        <circle cx="125.379" cy="125.379" r="92.045" fill="#009EE5" opacity=".05"/>
+        <circle cx="125" cy="125" r="50" fill="#009EE5" opacity=".08"/>
+        <g transform="translate(31.06 19.697)">
+            <mask id="c" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="url(#b)" xlink:href="#a"/>
+            <path stroke="#FFF" stroke-linecap="square" stroke-opacity=".301" stroke-width=".5" d="M32.633 16.867V90.2" mask="url(#c)"/>
+            <g stroke="#FFF" stroke-linecap="square" stroke-opacity=".6" stroke-width=".5" mask="url(#c)" opacity=".248">
+                <path d="M34.467 89.922h151.8M34.467 75.478h151.8M34.467 61.033h151.8M34.467 46.033h151.8M34.467 31.589h151.8M34.467 17.144h151.8"/>
+            </g>
+            <path stroke="#FFF" stroke-linecap="square" stroke-opacity=".301" stroke-width=".5" d="M32.267 90.567h151.8" mask="url(#c)"/>
+            <g mask="url(#c)">
+                <g transform="translate(38.133 27.867)">
+                    <text font-family="Quicksand-Medium, Quicksand" font-size="3.667" font-weight="400">
+                        <tspan x="3.525" y="72.025" fill="#FFF">Week 1</tspan>
+                    </text>
+                    <text font-family="Quicksand-Medium, Quicksand" font-size="3.667" font-weight="400">
+                        <tspan x="32.625" y="72.025" fill="#FFF">Week 2</tspan>
+                    </text>
+                    <text font-family="Quicksand-Medium, Quicksand" font-size="3.667" font-weight="400">
+                        <tspan x="62.694" y="72.025" fill="#FFF">Week 3</tspan>
+                    </text>
+                    <text font-family="Quicksand-Medium, Quicksand" font-size="3.667" font-weight="400">
+                        <tspan x="92.486" y="72.025" fill="#FFF">Week 4</tspan>
+                    </text>
+                    <text font-family="Quicksand-Medium, Quicksand" font-size="3.667" font-weight="400">
+                        <tspan x="122.647" y="72.025" fill="#FFF">Week 5</tspan>
+                    </text>
+                    <path fill="url(#d)" d="M30.79 25.016h15.766c.405 0 .733.329.733.734V62.45H30.056V25.75c0-.405.329-.734.734-.734z"/>
+                    <rect width="17.233" height="62.392" x="60.112" fill="url(#e)" rx="1.467" transform="matrix(1 0 0 -1 0 62.392)"/>
+                    <path fill="url(#d)" d="M90.902 24.71h15.766c.405 0 .733.328.733.733v36.702H90.17V25.443c0-.405.328-.733.733-.733zM120.958 9.565h15.766c.405 0 .734.329.734.734v52.093h-17.233V10.299c0-.405.328-.734.733-.734zM.733 43.734H16.5c.405 0 .733.328.733.733v17.925H0V44.467c0-.405.328-.733.733-.733z"/>
+                </g>
+            </g>
+            <g mask="url(#c)">
+                <g stroke="#FFF" stroke-linecap="square" stroke-opacity=".6" stroke-width=".5">
+                    <path d="M29.623 91.575h3.418M29.623 77.047h3.418M29.623 62.519h3.418M29.623 47.432h3.418M29.623 32.904h3.418M29.623 18.376h3.418"/>
+                </g>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="3.667" transform="translate(5.133 14.667)">
+                    <tspan x="8.384" y="4.583" fill="#FFF">₹</tspan> <tspan x="10.584" y="4.583" fill="#FFF" font-family="Quicksand-Medium, Quicksand" font-weight="400">10,000</tspan>
+                </text>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="3.667" transform="translate(5.133 14.667)">
+                    <tspan x="9.814" y="19.112" fill="#FFF">₹</tspan> <tspan x="12.014" y="19.112" fill="#FFF" font-family="Quicksand-Medium, Quicksand" font-weight="400">5,000</tspan>
+                </text>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="3.667" transform="translate(5.133 14.667)">
+                    <tspan x="10.606" y="33.64" fill="#FFF">₹</tspan> <tspan x="12.806" y="33.64" fill="#FFF" font-family="Quicksand-Medium, Quicksand" font-weight="400">1,000</tspan>
+                </text>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="3.667" transform="translate(5.133 14.667)">
+                    <tspan x="12.919" y="48.727" fill="#FFF">₹</tspan> <tspan x="15.119" y="48.727" fill="#FFF" font-family="Quicksand-Medium, Quicksand" font-weight="400">500</tspan>
+                </text>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="3.667" transform="translate(5.133 14.667)">
+                    <tspan x="13.711" y="63.255" fill="#FFF">₹</tspan> <tspan x="15.911" y="63.255" fill="#FFF" font-family="Quicksand-Medium, Quicksand" font-weight="400">100</tspan>
+                </text>
+                <text font-family="Quicksand-Medium, Quicksand" font-size="3.667" font-weight="400" transform="translate(5.133 14.667)">
+                    <tspan x="19.42" y="78.709" fill="#FFF">0</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(98.56 94.545)">
+            <use fill="#000" filter="url(#f)" xlink:href="#g"/>
+            <use fill="#FFF" stroke="#E6E6E6" stroke-width=".85" xlink:href="#g"/>
+            <rect width="55.724" height="97.065" x="4.221" y="5.109" fill="#DCE5E8" rx="1.7"/>
+            <g opacity=".25">
+                <use fill="#D8D8D8" xlink:href="#h"/>
+                <rect width="14.347" height="4.258" x="24.91" y="107.776" stroke="#979797" stroke-width=".85" rx="2.129"/>
+            </g>
+        </g>
+        <g fill-rule="nonzero" transform="translate(157.576 137.121)">
+            <use fill="#000" filter="url(#i)" xlink:href="#j"/>
+            <use fill="#FFF" fill-rule="evenodd" xlink:href="#j"/>
+        </g>
+        <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="1.995" d="M161.146 143.824h19.746" opacity=".1"/>
+        <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="1.995" d="M161.286 155.219h32.91" opacity=".3"/>
+        <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="1.995" d="M161.286 165.944h32.91" opacity=".5"/>
+        <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="1.995" d="M161.286 170.636h32.91" opacity=".6"/>
+        <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="1.995" d="M161.286 175.998h32.91" opacity=".7"/>
+        <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="1.995" d="M161.146 147.846h19.746" opacity=".2"/>
+        <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="1.995" d="M161.286 160.581h32.91" opacity=".4"/>
+        <path fill="#ABBFC8" d="M195.543 149.503l-9.385-.656.654-9.361z" opacity=".685"/>
+        <path fill="#006391" fill-opacity=".27" d="M162.029 184.59l-.383 1.164h4.838a2.008 2.008 0 0 1-.803 1.201c-.612.414-1.53.639-2.734.639h-1.167v1.37c.46 0 .88.132 1.262.376.325.225.65.544.976.976l3.423 4.45h2.83l-4.093-5.088c-.44-.545-.745-.883-.898-1.014 1.013-.206 1.835-.6 2.447-1.202.46-.469.727-1.032.842-1.708h2.046l.402-1.164h-2.41c-.096-.826-.382-1.502-.841-2.066h2.849l.382-1.164h-8.987l-.402 1.164h1.989c.956 0 1.683.207 2.18.639.401.338.65.807.746 1.427h-4.494z"/>
+        <g>
+            <g fill-rule="nonzero" transform="translate(124.242 112.121)">
+                <use fill="#000" filter="url(#k)" xlink:href="#l"/>
+                <use fill="#FFF" fill-rule="evenodd" xlink:href="#l"/>
+            </g>
+            <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="2.493" d="M128.67 120.455h24.484" opacity=".1"/>
+            <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="2.493" d="M128.843 134.621h40.808" opacity=".3"/>
+            <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="2.493" d="M128.843 147.955h40.808" opacity=".5"/>
+            <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="2.493" d="M128.843 153.788h40.808" opacity=".6"/>
+            <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="2.493" d="M128.843 160.455h40.808" opacity=".7"/>
+            <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="2.493" d="M128.67 125.455h24.484" opacity=".2"/>
+            <path stroke="#C5D3D9" stroke-linecap="round" stroke-width="2.493" d="M128.843 141.288h40.808" opacity=".4"/>
+            <path fill="#ABBFC8" d="M171.321 127.514l-11.638-.814.814-11.638z" opacity=".685"/>
+            <path fill="#006391" fill-opacity=".27" d="M129.764 171.136l-.474 1.447h6a2.497 2.497 0 0 1-.997 1.494c-.759.514-1.897.794-3.39.794h-1.447v1.704c.569 0 1.09.163 1.565.467.403.28.806.677 1.21 1.214l4.244 5.532h3.51l-5.075-6.326c-.546-.677-.925-1.097-1.115-1.26 1.257-.257 2.277-.747 3.035-1.494.57-.584.902-1.284 1.044-2.125h2.537l.498-1.447h-2.988c-.118-1.027-.474-1.867-1.043-2.568h3.533l.474-1.447H129.74l-.498 1.447h2.467c1.185 0 2.086.257 2.703.794.498.42.806 1.004.925 1.774h-5.573z"/>
+        </g>
+        <g opacity=".9" transform="translate(31.818 147.727)">
+            <mask id="o" fill="#fff">
+                <use xlink:href="#m"/>
+            </mask>
+            <use fill="#000" filter="url(#n)" xlink:href="#m"/>
+            <use fill="#FFF" xlink:href="#m"/>
+            <g mask="url(#o)">
+                <g fill-rule="nonzero" transform="translate(11.785 11.785)">
+                    <path fill="#5A4146" d="M14.91.21C8.613.21 3.508 5.282 3.508 11.54V31.59h22.803V11.541C26.311 5.283 21.207.209 14.91.209z"/>
+                    <path fill="#E6AF78" d="M28.2 31.79l-7.826-3.24a1.743 1.743 0 0 1-1.08-1.61v-2.215h-8.77v2.215c0 .704-.425 1.339-1.08 1.61L1.62 31.79A2.615 2.615 0 0 0 0 34.204v3.487c0 .962.785 1.743 1.754 1.743h26.311c.969 0 1.754-.78 1.754-1.743v-3.487A2.615 2.615 0 0 0 28.2 31.79z"/>
+                    <path fill="#FFF" d="M28.2 31.79l-6.323-2.618a7.896 7.896 0 0 1-6.967 4.16 7.896 7.896 0 0 1-6.968-4.16L1.62 31.79A2.615 2.615 0 0 0 0 34.204v5.104c0 .963.785 1.744 1.754 1.744h26.311c.969 0 1.754-.78 1.754-1.744v-5.104A2.615 2.615 0 0 0 28.2 31.79z"/>
+                    <g fill="url(#p)" transform="translate(0 29.757)">
+                        <path d="M1.62 2.033A2.615 2.615 0 0 0 0 4.447V9.55c0 .963.785 1.744 1.754 1.744h8.77C7.894 6.936 6.322.085 6.322.085L1.62 2.034zM28.2 2.033a2.615 2.615 0 0 1 1.62 2.414V9.55c0 .963-.786 1.744-1.755 1.744h-8.77C21.926 6.936 23.497.085 23.497.085L28.2 2.034z"/>
+                    </g>
+                    <path fill="#D29B6E" d="M19.295 24.725h-8.77v2.215c0 .704-.426 1.339-1.08 1.61l-1.222.506c9.353 2.37 11.072-4.331 11.072-4.331z"/>
+                    <path fill="#F0C087" d="M14.291 9.561a14.91 14.91 0 0 1-7.334 4.173.879.879 0 0 0-.692.929l.583 6.373a3.485 3.485 0 0 0 1.79 2.732l4.568 2.522a3.527 3.527 0 0 0 3.407 0l4.568-2.522a3.485 3.485 0 0 0 1.79-2.732l.583-6.373a.88.88 0 0 0-.692-.929 14.91 14.91 0 0 1-7.334-4.173.864.864 0 0 0-1.237 0z"/>
+                    <path fill="#E6AF78" d="M15.527 9.56a.863.863 0 0 0-1.236 0 14.95 14.95 0 0 1-3.873 2.874 15.124 15.124 0 0 1-3.463 1.3.879.879 0 0 0-.69.927l.583 6.375a3.486 3.486 0 0 0 1.79 2.732l4.568 2.522c.38.21.79.341 1.207.4l-1.325-2.369a7.81 7.81 0 0 1-.96-3.1l-.573-6.261a1.72 1.72 0 0 1 .805-1.625c.91-.56 1.766-1.202 2.55-1.93a16.752 16.752 0 0 0 8.399 4.203l.055.01.055.007.046.005.089-.967a.88.88 0 0 0-.692-.929 14.914 14.914 0 0 1-7.335-4.174z"/>
+                    <path fill="#F7F7F7" d="M21.877 29.172a7.896 7.896 0 0 1-6.967 4.16 7.896 7.896 0 0 1-6.968-4.16l-1.62.67a9.646 9.646 0 0 0 8.588 5.234c3.748 0 6.99-2.13 8.587-5.233l-1.62-.671z"/>
+                    <path fill="#464655" d="M23.615 19.246c-.044.148-1.143 3.626-7.828 3.626v1.744c8.112 0 9.466-4.71 9.52-4.912l-1.692-.458z"/>
+                    <ellipse cx="15.787" cy="23.744" fill="#5B5D6E" rx="1" ry="1"/>
+                    <g fill="#707487">
+                        <path d="M24.557 15.027h-1.036l-.479 5.23h1.515c.485 0 .877-.39.877-.871v-3.487a.875.875 0 0 0-.877-.872zM6.299 15.027H5.262a.874.874 0 0 0-.877.872v3.487c0 .481.393.871.877.871h1.515l-.478-5.23z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

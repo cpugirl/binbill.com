@@ -1,0 +1,144 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="308" height="377"
+     viewBox="0 0 308 377">
+    <defs>
+        <rect id="b" width="300" height="369" rx="5"/>
+        <filter id="a" width="104.7%" height="103.8%" x="-2.3%" y="-1.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+        </filter>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".57"/>
+            <stop offset="100%" stop-color="#FAFAFA"/>
+        </linearGradient>
+        <rect id="d" width="300" height="66" rx="5"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(4 2)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#FFF" xlink:href="#b"/>
+        </g>
+        <path fill="#FFF" stroke="#ECECEC" d="M4 90h300v54H4z"/>
+        <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+              transform="translate(4 90)">
+            <tspan x="42.265" y="20.13">Electricity Bill Payment</tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="PingFangSC-Medium, PingFang SC" font-size="11" font-weight="400"
+              transform="translate(4 90)">
+            <tspan x="250.224" y="21.13">₹</tspan>
+            <tspan x="256.824" y="21.13" font-family="Quicksand-Medium, Quicksand">2,500</tspan>
+        </text>
+        <g transform="translate(16.43 100.8)">
+            <rect width="19.89" height="19.938" rx="4"/>
+            <g fill="#009EE5" fill-rule="nonzero">
+                <path d="M16.37 5.663l-3.724-3.8a.352.352 0 0 0-.25-.106h-8.64a.348.348 0 0 0-.35.347v15.715c0 .192.156.347.35.347h12.362c.193 0 .35-.155.35-.347V5.905a.346.346 0 0 0-.099-.242zm-1.05-.075H12.37V2.574l2.952 3.014zM4.106 17.473V2.45h7.564v3.485c0 .191.156.346.35.346h3.66c.031 0 .06-.005.09-.013v11.205H4.104z"/>
+                <path d="M6.08 14.468h7.767v.676H6.081v-.676zm0-2.186h7.767v.675H6.081v-.675zm3.884-2.187h3.883v.675H9.964v-.675zM6.201 6.929H7.87a.835.835 0 0 0-.277-.535c-.185-.162-.455-.239-.81-.239h-.738l.149-.436h3.337l-.142.436H8.331c.17.211.277.464.313.774h.894l-.149.436h-.76a1.165 1.165 0 0 1-.312.64c-.227.225-.532.373-.909.45.057.05.17.176.334.38l1.52 1.907H8.21L6.94 9.075a1.622 1.622 0 0 0-.363-.366.851.851 0 0 0-.468-.14v-.514h.433c.447 0 .788-.085 1.015-.24a.753.753 0 0 0 .299-.45H6.059l.142-.436z"/>
+            </g>
+        </g>
+        <text fill="#919191" font-family="Quicksand-Regular, Quicksand" font-size="10" transform="translate(4 90)">
+            <tspan x="42.265" y="36.995">819 Olin Rapid Suite 780</tspan>
+        </text>
+        <text fill="#919191" font-family="Quicksand-Regular, Quicksand" font-size="9" transform="translate(4 90)">
+            <tspan x="243.08" y="35.995">by 30 Aug</tspan>
+        </text>
+        <path fill="#FFF" stroke="#ECECEC" d="M4 252h300v54H4z"/>
+        <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+              transform="translate(4 252)">
+            <tspan x="42.265" y="20.13">Service scheduled</tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+              transform="translate(4 252)">
+            <tspan x="235.605" y="20.13">on 12 Aug</tspan>
+        </text>
+        <g transform="translate(16.43 262.8)">
+            <rect width="19.89" height="19.938" rx="4"/>
+            <path fill="#009EE5" fill-rule="nonzero"
+                  d="M6.2 4.163c-.626 0-1.135.516-1.135 1.15 0 .633.509 1.148 1.135 1.148s1.135-.515 1.135-1.149c0-.633-.51-1.149-1.135-1.149zm0 1.55a.399.399 0 0 1-.396-.4c0-.222.177-.402.396-.402.218 0 .396.18.396.401 0 .221-.178.4-.396.4zm10.835-3.22H2.855c-.66 0-1.198.543-1.198 1.211v13.361c0 .668.537 1.212 1.198 1.212h14.18c.66 0 1.197-.544 1.197-1.212V3.704c0-.668-.537-1.212-1.197-1.212zm.458 14.572a.461.461 0 0 1-.458.464H2.855a.461.461 0 0 1-.458-.464V8.146h15.096v8.92zm0-9.667H2.396V3.704c0-.256.206-.464.458-.464h14.18c.253 0 .459.208.459.464v3.694zM13.69 4.163c-.626 0-1.135.516-1.135 1.15 0 .633.509 1.148 1.135 1.148s1.135-.515 1.135-1.149c0-.633-.51-1.149-1.135-1.149zm0 1.55a.399.399 0 0 1-.396-.4c0-.222.177-.402.396-.402.218 0 .396.18.396.401 0 .221-.178.4-.396.4zM8.392 15.839a.365.365 0 0 0 .517.006l5.362-5.19a.377.377 0 0 0 .012-.529.366.366 0 0 0-.523-.012L8.66 15.051l-2.524-2.554a.366.366 0 0 0-.522 0 .377.377 0 0 0 0 .529l2.779 2.813z"/>
+        </g>
+        <text fill="#919191" font-family="Quicksand-Regular, Quicksand" font-size="9" transform="translate(4 252)">
+            <tspan x="42.265" y="34.995">MacBook Pro 15” Retina</tspan>
+        </text>
+        <g>
+            <path fill="#FFF" stroke="#ECECEC" d="M4 144h300v54H4z"/>
+            <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+                  transform="translate(4 144)">
+                <tspan x="42.265" y="21.13">Warranty expiring</tspan>
+            </text>
+            <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+                  transform="translate(4 144)">
+                <tspan x="233.493" y="21.13">on 26 Aug</tspan>
+            </text>
+            <g transform="translate(16.43 154.8)">
+                <rect width="19.89" height="19.938" rx="4"/>
+                <g fill="#009EE5" fill-rule="nonzero">
+                    <path d="M4.346 7.789h8.368v1H4.346zM4.346 9.603h8.368v1H4.346zM4.346 11.439h8.368v1H4.346z"/>
+                    <path d="M14.922 12.463c-.073 0-.145.006-.216.01V4.849L10.566.831h-8.08v15.637h9.234c.359 1.401 1.656 2.443 3.202 2.443 1.822 0 3.304-1.446 3.304-3.224 0-1.778-1.482-3.224-3.304-3.224zM10.788 2.02l2.988 2.915h-2.988V2.02zM3.216 15.777V1.522h6.863v4.103h3.918v6.969c-1.373.391-2.38 1.628-2.38 3.093 0 .03.004.06.005.09H3.216zm11.706 2.468c-1.446 0-2.622-1.148-2.622-2.558s1.176-2.558 2.622-2.558c1.445 0 2.621 1.147 2.621 2.558 0 1.41-1.176 2.558-2.621 2.558z"/>
+                    <path d="M15.038 13.971h-.543V16.091h1.9v-.53h-1.357z"/>
+                </g>
+            </g>
+            <text fill="#919191" font-family="Quicksand-Regular, Quicksand" font-size="9" transform="translate(4 144)">
+                <tspan x="42.265" y="35.995">Sony Headphones</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#FFF" stroke="#ECECEC" d="M4 198h300v54H4z"/>
+            <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+                  transform="translate(4 198)">
+                <tspan x="42.265" y="20.13">Insurance expiring</tspan>
+            </text>
+            <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+                  transform="translate(4 198)">
+                <tspan x="240.181" y="20.13">on 5 Sep</tspan>
+            </text>
+            <g transform="translate(16.43 208.8)">
+                <rect width="19.89" height="19.938" rx="4"/>
+                <g fill="#009EE5" fill-rule="nonzero">
+                    <path d="M4.346 7.789h8.368v1H4.346zM4.346 9.603h8.368v1H4.346zM4.346 11.439h8.368v1H4.346z"/>
+                    <path d="M14.922 12.463c-.073 0-.145.006-.216.01V4.849L10.566.831h-8.08v15.637h9.234c.359 1.401 1.656 2.443 3.202 2.443 1.822 0 3.304-1.446 3.304-3.224 0-1.778-1.482-3.224-3.304-3.224zM10.788 2.02l2.988 2.915h-2.988V2.02zM3.216 15.777V1.522h6.863v4.103h3.918v6.969c-1.373.391-2.38 1.628-2.38 3.093 0 .03.004.06.005.09H3.216zm11.706 2.468c-1.446 0-2.622-1.148-2.622-2.558s1.176-2.558 2.622-2.558c1.445 0 2.621 1.147 2.621 2.558 0 1.41-1.176 2.558-2.621 2.558z"/>
+                    <path d="M15.038 13.971h-.543V16.091h1.9v-.53h-1.357z"/>
+                </g>
+            </g>
+            <text fill="#919191" font-family="Quicksand-Regular, Quicksand" font-size="9" transform="translate(4 198)">
+                <tspan x="42.265" y="35.995">Hero Honda CD Deluxe</tspan>
+            </text>
+        </g>
+        <text fill="#3B3B3B" font-family="Quicksand-Bold, Quicksand" font-size="14" font-weight="bold"
+              letter-spacing=".875" transform="translate(4 2)">
+            <tspan x="125.649" y="43">What’s</tspan>
+            <tspan x="110.91" y="61">Coming Up</tspan>
+        </text>
+        <path stroke="#E6E6E6" stroke-linecap="square" stroke-width="2" d="M138 25h33"/>
+        <g>
+            <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+                  transform="translate(4 306)">
+                <tspan x="42.265" y="21.538">Insurance expiring</tspan>
+            </text>
+            <text fill="#4A4A4A" font-family="Quicksand-Medium, Quicksand" font-size="11" font-weight="400"
+                  transform="translate(4 306)">
+                <tspan x="240.181" y="21.538">on 5 Sep</tspan>
+            </text>
+            <g transform="translate(16.43 318)">
+                <rect width="19.89" height="22.154" rx="4"/>
+                <g fill="#009EE5" fill-rule="nonzero">
+                    <path d="M4.346 8.654h8.368v1H4.346zM4.346 10.67h8.368v1H4.346zM4.346 12.71h8.368v1H4.346z"/>
+                    <path d="M14.922 13.848c-.073 0-.145.007-.216.012V5.387L10.566.923h-8.08v17.375h9.234c.359 1.557 1.656 2.714 3.202 2.714 1.822 0 3.304-1.607 3.304-3.582 0-1.975-1.482-3.582-3.304-3.582zM10.788 2.243l2.988 3.24h-2.988v-3.24zM3.216 17.53V1.69h6.863v4.56h3.918v7.743c-1.373.435-2.38 1.81-2.38 3.437 0 .034.004.067.005.1H3.216zm11.706 2.742c-1.446 0-2.622-1.275-2.622-2.842 0-1.567 1.176-2.842 2.622-2.842 1.445 0 2.621 1.275 2.621 2.842 0 1.567-1.176 2.842-2.621 2.842z"/>
+                    <path d="M15.038 15.524h-.543v2.354h1.9v-.588h-1.357z"/>
+                </g>
+            </g>
+            <text fill="#919191" font-family="Quicksand-Regular, Quicksand" font-size="9" transform="translate(4 306)">
+                <tspan x="42.265" y="37.231">Hero Honda CD Deluxe</tspan>
+            </text>
+            <g transform="translate(4 306)">
+                <use fill="url(#c)" xlink:href="#d"/>
+                <use fill="#FFF" fill-opacity=".516" xlink:href="#d"/>
+            </g>
+        </g>
+        <g transform="translate(100 326)">
+            <rect width="108" height="33" fill="#FFF" stroke="#FF732E" rx="16.5"/>
+            <text fill="#FF732E" font-family="Montserrat-Bold, Montserrat" font-size="11" font-weight="bold"
+                  letter-spacing=".157">
+                <tspan x="19.443" y="20.75">View More +</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
