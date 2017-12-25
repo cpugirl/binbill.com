@@ -2,7 +2,7 @@ import Header from '../components/header';
 import Footer from '../components/footer';
 import Main from './dashboard';
 const Index = () => (
-    <div>
+    <div className="root">
       <Header />
       <Main />
       <Footer />
