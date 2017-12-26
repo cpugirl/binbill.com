@@ -22,6 +22,16 @@ class Header extends Component {
           />
           <link href="/static/bootstrap/bootstrap.min.css" rel="stylesheet" />
           <link
+            rel="stylesheet"
+            type="text/css"
+            href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"
+          />
+          <link
+            rel="stylesheet"
+            type="text/css"
+            href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
+          />
+          <link
             href="/static/bootstrap/bootstrap-theme.min.css"
             rel="stylesheet"
           />
@@ -230,11 +240,11 @@ class Header extends Component {
             </div>
           </div>
           <style jsx global>
-            {`.root{
-				    background-color: rgba(236,242,245,.49);
-				}
-				
-				`}
+            {`
+              .root {
+                background-color: rgba(236, 242, 245, 0.49);
+              }
+            `}
           </style>
           <style jsx>
             {`

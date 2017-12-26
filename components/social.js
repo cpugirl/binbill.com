@@ -81,7 +81,7 @@ class SocialCarousel extends Component {
                         </div>
                     </div>
                 ))}
-                <style jsx>
+                <style jsx global>
             {
             `.testimonial-wrapper {
                 padding: 10px;
@@ -142,3 +142,4 @@ class SocialCarousel extends Component {
 }
 
 export default SocialCarousel;
+module.exports=SocialCarousel;

@@ -1,37 +1,47 @@
 import React, { Component } from "react";
-import Social from "../components/social";
+
+
 
 class Main extends Component {
+  
   constructor(props) {
     super(props);
     this.state = {
       isOnBrowser: false
     };
   }
-  componentDidMount() {
+  async componentDidMount() {
     this.setState({
       isOnBrowser: true
     });
+    console.log("data",this.props.blogData);
   }
-  // renderBlogs() {
-  // 	const blogs = this.props ? this.props.blogs.slice(0, 3) : [];
+  renderBlogs() {
+  	const blogs = this.props ? this.props.blogData.slice(0, 3) : [];
 
-  // 	return blogs.map(blog => (
-  // 		<a
-  // 			key={blog.id}
-  // 			href={`/blog/${blog.id}`}
-  // 			className="col-sm-4 dashboard-blog-item"
-  // 		>
-  // 			<div
-  // 				className="dashboard-blog-image"
-  // 				style={{ backgroundImage: `url(${blog.image})` }}
-  // 			/>
-  // 			<h4 className="dashboard-blog-title">{blog.title}</h4>
-  // 		</a>
-  // 	));
-  // }
+  	return blogs.map(blog => (
+  		<a
+  			key={blog.id}
+  			href={`/blog/${blog.id}`}
+  			className="col-sm-4 dashboard-blog-item"
+  		>
+  			<div
+  				className="dashboard-blog-image"
+  				style={{ backgroundImage: `url(${blog.image})` }}
+  			/>
+  			<h4 className="dashboard-blog-title">{blog.title.rendered}</h4>
+  		</a>
+  	));
+  }
+
+
   render() {
     const { isOnBrowser } = this.state;
+    let renderSocial=null;
+    if(isOnBrowser){
+      const Social =require("../components/social");
+      renderSocial=<Social/>;
+    }
 
     return (
       <div>
@@ -412,7 +422,7 @@ class Main extends Component {
               consumer rights.communication give you stress. Just use BinBill!
             </p>
           </div>
-          {/* <div className="row">{this.renderBlogs()}</div> */}
+          <div className="row">{this.renderBlogs()}</div>
           <div className="know-more-wrapper">
             <a className="know-more" href="/blog">
               Know More
@@ -424,7 +434,7 @@ class Main extends Component {
           <div className="main-border2" />
         </div>
         <div className="testimonials-container">
-          {/* {isOnBrowser &&	<Social />} */}
+          {renderSocial}
         </div>
         <div className="container-fluid playstore-section">
           <div
